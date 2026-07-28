@@ -114,5 +114,34 @@ Draw one last line from Wazuh manager to Windows 10 Client Wazuh Agent, color it
 
 You should end up with something that looks like the following.
 
-<img width="760" height="978" alt="SOC automationv2" src="https://github.com/user-attachments/assets/130b0ba1-7aba-4f84-9c47-ee26410d1eae" />
+<img width="638" height="707" alt="SOC automationv3" src="https://github.com/user-attachments/assets/8e041f3c-9874-458d-992c-b7a51760b089" />
+
+<br>
+<br>
+<br>
+<br>
+
+### 3. Map Out a Simplified Flow Without Icons
+
+Here we will draw out a simplified version of what we have above and specify the purpose of each component.
+
+Double click on an empty space at the bottom of the canvas and select text. Type in `Windows 10` hit the return key and type `send events`. As you can see the pattern is: <br> "network component" <br>
+"Purpose of network component" 
+
+Hover over the text box as we did before with the icons and you will see 4 blue arrows. Click the right arrow and then select text. a text box will apear to the right. <br>
+Here type `Wazuh Manager` hit enter and type `Trigger alerts & perform response actions`.
+
+Repeat the process to create another text box to the right. Type `Shuffle`, `receive Wazuh alerts & send responsive actions`. 
+
+Add a text box above with `OSINT`, `Enrich IOCs`.
+
+Add a text box below with `TheHive`, `Create alert in case management`.
+
+Add one last box to the left with `Email`, `Send responsive actions`.
+
+The entirety of your diagram should now look something like the following:
+
+<img width="760" height="978" alt="SOC automationv2" src="https://github.com/user-attachments/assets/ffee463a-6e3d-40f5-868c-58300a2a906d" />
+
+
 
