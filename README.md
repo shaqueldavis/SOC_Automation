@@ -5,7 +5,7 @@
 
 ## $\color{blue}{\text{Objective}}$
 
-This SOC Automation (Home Lab) walks you through the steps of setting up a Security Operations Center (SOC) automation project. We will explore how automation enhances incident response, accelerates threat detection, and streamlines SOC workflows. 
+This SOC Automation (Home Lab) walks you through the steps of setting up a Security Operations Center (SOC) automation project. We will explore how automation enhances incident response, accelerates threat detection, and streamlines SOC workflows. In the process we will create a Wazuh instance with SOAR integration and a fully functional case management using TheHive.
 
 
 
