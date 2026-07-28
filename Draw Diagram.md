@@ -20,7 +20,7 @@ This will take you to the Draw.io diagram app webpage.
 <br>
 <br>
 
-On the lefthand side you will see a search box.
+On the left-hand side you will see a search box.
 
 <img width="508" height="288" alt="image" src="https://github.com/user-attachments/assets/1d64ac1f-05fa-4b52-9d84-fe0b6e37fd3b" />
 
@@ -49,18 +49,70 @@ the one to the right: `TheHive` <br>
 ### 2. Map out workflow
 
 
-Then hover over the icon with your mouse. you will see 4 arrows around it.
+Hover over the Windows 10 Client Wazuh Agent PC icon with your mouse. you will see 4 arrows around it.
 
-Grey link from Windows 10 Client Wazuh Agent to the router represents sending of events over to the Wazuh manager.
+<img width="402" height="342" alt="image" src="https://github.com/user-attachments/assets/1ea86f04-e992-4f41-b10e-0011c6cf1036" />
 
-https://www.drawio.com/
+click the top arrow and drag a line to the bottom of the router. 
 
+<br>
+<br>
 
+Select the line and on the right side of the window you will see the option to change the style of the line. Click the first drop-down menu under the `line` checkbox and change it to link.
 
----------------------------------------------
+<img width="186" height="330" alt="image" src="https://github.com/user-attachments/assets/20ae1a6c-2d2f-4380-8ce4-509bdfa5d249" />
 
-<img width="760" height="978" alt="SOC automation" src="https://github.com/user-attachments/assets/ba934b8b-54cc-4986-aa93-dbd096482c8e" />
+<br>
+<br>
 
+To the right of the line checkbox, you will see the option to change the color. Click the color option and change the line to grey. This colored line will represent the sending of events.
 
+Now double click the line to enter text mode and label the line `1. Send events`. 
 
+<img width="344" height="812" alt="image" src="https://github.com/user-attachments/assets/48f0f868-7bad-41fb-928c-c17f76add14f" />
+
+<br>
+<br>
+
+Hover over the router and click the top arrow. Drag a line from the router to the bottom of the internet icon. select it, change the line style to link and the color to grey.
+
+Hover over the router and click the top arrow. Drag a line from the router to the bottom of the internet icon. select it, change the line style to link and the color to grey. We wont label this one
+
+Hover over the internet icon and drag a line from the left to the Wazuh manager. Double click the line and name it `2. Receive events`. Also change the color to grey, and change the line style to link. <br>
+Note: All of the lines will be in link style
+
+<img width="744" height="1024" alt="image" src="https://github.com/user-attachments/assets/260c1def-c81c-42a3-813b-a7fba3985817" />
+
+<br>
+<br>
+
+Draw a line from Wazuh manager to shuffle, color it blue, and label it `3.Send alerts`. <br> 
+This time you will likely notice that the line is drawn a little awkward. To correct this, click the second drop-down menu under the line checkbox on the right of the window and click the first option `straight`. 
+
+<img width="174" height="242" alt="image" src="https://github.com/user-attachments/assets/dd74d577-019d-41fd-892b-76f4d49db282" />
+
+<br>
+<br>
+
+Draw a line from Shuffle to Internet, change its color to green and name it `4. Enrich IOCs`. 
+
+Draw a line from Shuffle to TheHive, change its color to blue and name it `5. Send alerts`. Make the line straight as we did with the first blue line.
+
+This next one may be a little tricky. <br>
+Draw a line from Shuffle to Internet and color it orange. First change the line to straight as we did with the blue line. <br>
+Now select the line and you will notice a somewhat transparent blue circle in the center of the line. click it and drag it out to the right until you have space to add a label. <br>
+Now name the line `6. Send email`.  
+
+Draw a line from Internet to SOC Analyst, color it orange, and name it `7. Send & Receive`. make the line straight.
+
+The last-colored line red, will represent the sending of response actions. <br>
+Draw a line from SOC Analyst to Internet, color it red, make it straight, name it `8. Send response action`, and adjust it so that it does not interfere with the orange line.
+
+Draw a red line from Internet to Shuffle with no label. Adjust it so it does not collide with the others. <br>
+Draw another red line from Shuffle to Wazuh manager and name it `8. Send response action` again. <br>
+Draw one last line from Wazuh manager to Windows 10 Client Wazuh Agent, color it red, and label it `Perform responsive action`. 
+
+You should end up with something that looks like the following.
+
+<img width="760" height="978" alt="SOC automationv2" src="https://github.com/user-attachments/assets/130b0ba1-7aba-4f84-9c47-ee26410d1eae" />
 
