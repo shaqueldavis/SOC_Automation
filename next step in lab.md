@@ -120,7 +120,8 @@ Keep the default selection of “typical (recommended)" for your configuration s
 <br>
 <br>
 
-Click browse next to “Installer disc image file (iso):” and locate the ISO file we downloaded earlier. 
+Click browse next to “Installer disc image file (iso):” and locate the ISO file we downloaded earlier. <br>
+Once you have selected your desired file path click next.
 
 <br>
 
@@ -188,6 +189,30 @@ When the words _________________ appear at the top of the screen hit `enter`. if
 <img width="2468" height="1348" alt="image" src="https://github.com/user-attachments/assets/70a83a09-c8d4-42aa-9f5f-45a3781dee55" />
 
 <img width="2470" height="1330" alt="image" src="https://github.com/user-attachments/assets/ab98f3ad-c317-4e16-be0b-b999cedb9591" />
+
+<img width="2468" height="1344" alt="image" src="https://github.com/user-attachments/assets/fa75627b-b1a8-43c6-913c-06ee8763e7de" />
+
+<img width="2464" height="1336" alt="image" src="https://github.com/user-attachments/assets/ebf0e957-6023-40b6-b307-7a081967bc63" />
+
+<img width="2470" height="1338" alt="image" src="https://github.com/user-attachments/assets/33370ea3-8a72-4c7b-88a2-f8b6406d2341" />
+
+<img width="2472" height="1346" alt="image" src="https://github.com/user-attachments/assets/0a54f18d-e71a-4da8-b673-9679c8108490" />
+
+<img width="2468" height="1318" alt="image" src="https://github.com/user-attachments/assets/85551f45-12f3-4d71-b63d-9e34a0809e53" />
+
+<img width="2486" height="1340" alt="image" src="https://github.com/user-attachments/assets/6e0ce712-dcf7-4c11-bcc4-1d2745e5c1a2" />
+
+<img width="2474" height="1346" alt="image" src="https://github.com/user-attachments/assets/a1e91516-5665-452f-b983-c62bcc059595" />
+
+
+
+
+
+
+
+
+
+
 
 
 
