@@ -216,6 +216,48 @@ When the words _________________ appear at the top of the screen hit `enter`. if
 
 <img width="2470" height="1328" alt="image" src="https://github.com/user-attachments/assets/5acb7308-022c-4ce3-8357-532232f41bf5" />
 
+<img width="2472" height="1362" alt="image" src="https://github.com/user-attachments/assets/c065fccf-bb1a-4005-a492-26d75389b5db" />
+
+<img width="2474" height="1368" alt="image" src="https://github.com/user-attachments/assets/c159ef41-4625-4388-9cfb-7ac548cb1e78" />
+
+<img width="2472" height="1364" alt="image" src="https://github.com/user-attachments/assets/a3dddf9a-1d9c-4c9e-a16a-87fb8b0b110a" />
+
+<img width="2474" height="1366" alt="image" src="https://github.com/user-attachments/assets/0d2f4572-5ecc-4f0d-b43d-b72d6f8e9194" />
+
+<img width="2480" height="1364" alt="image" src="https://github.com/user-attachments/assets/778bfdb4-bc1b-443d-85d3-b4bbbf59552b" />
+
+<img width="2472" height="1366" alt="image" src="https://github.com/user-attachments/assets/5eb29fb5-d7f0-4e7c-b717-6da33c9a749b" />
+
+<img width="2474" height="1366" alt="image" src="https://github.com/user-attachments/assets/fa46c947-8510-4c71-bade-7e621aaa8352" />
+
+<img width="2476" height="1370" alt="image" src="https://github.com/user-attachments/assets/3263b07f-4317-449d-9f40-23c3d5bcafa6" />
+
+
+#
+#
+#
+
+
+<img width="2466" height="1372" alt="image" src="https://github.com/user-attachments/assets/12c6069b-fcde-430a-be19-22d7e1ebf60d" />
+
+<img width="2474" height="1366" alt="image" src="https://github.com/user-attachments/assets/e995b1ee-bf98-4711-aec4-698f5ff1e861" />
+
+<img width="2476" height="1368" alt="image" src="https://github.com/user-attachments/assets/4e71d99f-c2d1-4bc4-ad30-cec8e8f6e57b" />
+
+<img width="2470" height="1360" alt="image" src="https://github.com/user-attachments/assets/ccdbd9bc-4102-4594-bf12-5efb5884a06b" />
+
+<img width="2466" height="1364" alt="image" src="https://github.com/user-attachments/assets/d50a5789-070c-435e-bd79-fae4a29d1742" />
+
+<img width="2474" height="1364" alt="image" src="https://github.com/user-attachments/assets/0b69c3d2-6547-4b2f-96ae-5e1fbbf139d1" />
+
+<img width="2476" height="1366" alt="image" src="https://github.com/user-attachments/assets/d29c3e8d-d5f4-40d5-942c-1a0172ca5fb1" />
+
+<img width="2480" height="1372" alt="image" src="https://github.com/user-attachments/assets/b844ba69-e6ce-484d-aeee-804be99f9200" />
+
+
+
+
+
 
 
 
