@@ -5,8 +5,12 @@
 
 ## $\color{blue}{\text{Objective}}$
 
-This SOC Automation (Home Lab) walks you through the steps of setting up a Security Operations Center (SOC) automation project. We will explore how automation enhances incident response, accelerates threat detection, and streamlines SOC workflows. In the process we will create a Wazuh instance with SOAR integration and a fully functional case management using TheHive.
+This SOC Automation (Home Lab) walks you through the steps of setting up a Security Operations Center (SOC) automation project. We will explore how automation enhances incident response, accelerates threat detection, and streamlines SOC workflows. In the process we will create a Wazuh instance with SOAR integration and a fully functional case management using TheHive. <br>
+This lab will take you through my personal journey following <a href="https://www.youtube.com/@MyDFIR">MyDIFR's</a> YouTube tutorial. I take my own personal approach, but the steps are essentially the same. You can check out his version of this walkthrough <a href="https://www.youtube.com/watch?v=XR3eamn8ydQ">here</a>.
 
+### Requirements
+
+My version of this lab will require you to already have VM Workstation pro downloaded on your computer. My goal is to create another repository in the future that walks through the steps to do so. However, In the meantime check out YouTube University and even ChatGPT for guided info.
 
 
 ### Skills Learned
