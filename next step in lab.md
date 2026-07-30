@@ -1,4 +1,4 @@
-### Download Windows VM
+### Download Windows ISO
 
 Go to Microsoft's website via the link below, scroll down, and click download now under "create Windows 10 installation media".
   
@@ -72,6 +72,33 @@ Choose "ISO file" and hit next
 <br>
 <br>
 
+Save the ISO file to the same folder where you downloaded the original exe file. <br>
+A download window will pop up, and you will see the status of the progression. This will take a little while.
+
+<br>
+
+<img width="1304" height="1136" alt="Screenshot 2026-07-30 113458" src="https://github.com/user-attachments/assets/7201e5bd-00f4-47fe-a591-e7752239faae" />
+
+<br>
+<br>
+<br>
+<br>
+
+Hit finish once it is completed and you will see the ISO file in your folder.
+
+<br>
+
+<img width="2494" height="1144" alt="image" src="https://github.com/user-attachments/assets/86d9263b-0585-49c6-a16f-761c6e538eb8" />
+
+<br>
+<br>
+<br>
+<br>
+
+#
+
+
+### Set Up Windows ISO on VM
 
 
 
