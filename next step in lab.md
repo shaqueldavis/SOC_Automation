@@ -97,8 +97,27 @@ Hit finish once it is completed and you will see the ISO file in your folder.
 
 #
 
-
 ### Set Up Windows ISO on VM
 
+As mentioned before this next step will require you to already have VM Workstation pro downloaded on your computer. I my goal is to create another repository in the future that walk through the steps to do so. However, In the meantime check out YouTube University and even ChatGPT for guided info.
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/dbedc5b8-1fbc-4508-868b-908fff619f56" />
 
+<br>
+<br>
+<br>
+<br>
+
+<img width="852" height="826" alt="Screenshot 2026-07-30 115037" src="https://github.com/user-attachments/assets/5357bdf2-50fe-4e46-b0c4-312cebdd0a27" />
+
+<br>
+<br>
+<br>
+<br>
+
+<img width="848" height="826" alt="image" src="https://github.com/user-attachments/assets/52704b3a-fe5b-4224-acd0-9aefc3d5ac6c" />
+
+<br>
+<br>
+<br>
+<br>
