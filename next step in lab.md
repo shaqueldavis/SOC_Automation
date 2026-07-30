@@ -204,14 +204,17 @@ When the words _________________ appear at the top of the screen hit `enter`. if
 
 <img width="2474" height="1346" alt="image" src="https://github.com/user-attachments/assets/a1e91516-5665-452f-b983-c62bcc059595" />
 
+<img width="2472" height="1368" alt="image" src="https://github.com/user-attachments/assets/2b4c9b89-ad49-48d4-92c8-cdcce04d0ecc" />
 
+<img width="2474" height="1368" alt="Screenshot 2026-07-30 161856" src="https://github.com/user-attachments/assets/c328249c-7232-4795-a60d-4e82c45edc5b" />
 
+<img width="2478" height="1372" alt="Screenshot 2026-07-30 161915" src="https://github.com/user-attachments/assets/43702315-2939-4ce7-ba59-9ef0096160ed" />
 
+<img width="2474" height="1362" alt="image" src="https://github.com/user-attachments/assets/f9d6a16a-129c-4f5c-ab43-1a358d6f63d3" />
 
+<img width="2476" height="1370" alt="image" src="https://github.com/user-attachments/assets/efb7984f-3033-4094-8916-ff3ae695ea2d" />
 
-
-
-
+<img width="2470" height="1328" alt="image" src="https://github.com/user-attachments/assets/5acb7308-022c-4ce3-8357-532232f41bf5" />
 
 
 
