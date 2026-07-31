@@ -353,15 +353,33 @@ Once it is finished you will see a screen similar to those below.
 
 <img width="2480" height="1376" alt="image" src="https://github.com/user-attachments/assets/21252ce0-cf40-45d3-9519-2e9a2f30a06a" />
 
+If you still see this setting at the bottom of the VM Workstation interface, click "I finished". installing"
+
+<img width="2488" height="102" alt="Screenshot 2026-07-30 221910" src="https://github.com/user-attachments/assets/9c746fa4-9853-43dc-afea-42cdd6bc40c8" />
 
 
+#
+#
+#
+#
+#
+#
+#
+#
+
+<img width="2480" height="1374" alt="Screenshot 2026-07-30 221243" src="https://github.com/user-attachments/assets/2764ba1f-6b89-4b36-9cb7-4f65fed73fdf" />
+
+<img width="2476" height="1364" alt="Screenshot 2026-07-30 221324" src="https://github.com/user-attachments/assets/99a86859-46ec-4f8a-8d2d-ba8c2964028a" />
 
 
+<img width="870" height="1140" alt="Screenshot 2026-07-30 221402" src="https://github.com/user-attachments/assets/720b7d84-cc98-426a-8be7-0cda5bf0a648" />
 
 
+<img width="2098" height="1124" alt="image" src="https://github.com/user-attachments/assets/c33bd108-6c35-47f2-be24-b1242802f893" />
 
+<img width="2088" height="1124" alt="image" src="https://github.com/user-attachments/assets/d86b9fd5-4c64-455d-862b-3edc041cdf96" />
 
-
+<img width="2088" height="1124" alt="image" src="https://github.com/user-attachments/assets/7063df6f-f73c-4108-9cd8-ccff6e361fb1" />
 
 
 
