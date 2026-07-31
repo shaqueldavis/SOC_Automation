@@ -240,7 +240,9 @@ When the words _________________ appear at the top of the screen hit `enter`. if
 
 <img width="2474" height="1366" alt="image" src="https://github.com/user-attachments/assets/fa46c947-8510-4c71-bade-7e621aaa8352" />
 
-<img width="2476" height="1370" alt="image" src="https://github.com/user-attachments/assets/3263b07f-4317-449d-9f40-23c3d5bcafa6" />
+<img width="2480" height="1378" alt="image" src="https://github.com/user-attachments/assets/1883cbb7-b7cb-4357-ba8e-21938e352736" />
+
+<img width="2476" height="1364" alt="image" src="https://github.com/user-attachments/assets/95cef6af-a264-412d-bc89-6d7f0b6c7a06" />
 
 
 #
