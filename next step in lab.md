@@ -144,17 +144,27 @@ Once you have selected your desired file path click next.
 #
 #
 
+Name your virtual machine. I chose to name mine “Windows 11 SOC lab” because I will likely only use it for the purpose of this Lab. <br>
+Also click browse and choose the location where you want your VM to be stored. Then hit Next
 
 
 <img width="854" height="830" alt="image" src="https://github.com/user-attachments/assets/f8f22b32-06c8-463f-b0e6-d76912948cc3" />
 
+Keep the default of “only files needed to support a TPM are encrypted…”. Encrytpting all files could make moving, recovering, or troubleshooting the VM less convenient. <br>
+**Choose a password that you will remember.** write it down if you need to.
+
+
 <img width="846" height="832" alt="image" src="https://github.com/user-attachments/assets/6d50cb39-c96d-4fae-aa16-aa8f780fd834" />
+
+Go ahead with the recommended 64 GB setting along with “split virtual disk…”. The split virtual disk setting will make the VM easier to move. <br>
+Click next.
+
 
 <img width="852" height="832" alt="image" src="https://github.com/user-attachments/assets/1023673e-523e-4b9e-a6ae-ee9e9f6ddaac" />
 
-<img width="854" height="826" alt="image" src="https://github.com/user-attachments/assets/e8656ea0-2bd5-490e-9040-149949596791" />
+Click customize hardware and bump the memory up to 6 GB.
 
-<img width="286" height="54" alt="Screenshot 2026-07-30 152433" src="https://github.com/user-attachments/assets/79840f9e-556f-4809-b4e5-10f0fb07372f" />
+<img width="854" height="826" alt="image" src="https://github.com/user-attachments/assets/e8656ea0-2bd5-490e-9040-149949596791" />
 
 <img width="1494" height="1396" alt="image" src="https://github.com/user-attachments/assets/e595224a-80c6-46a2-b895-2b32b9e1e079" />
 
