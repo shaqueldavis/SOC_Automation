@@ -168,23 +168,41 @@ Click customize hardware and bump the memory up to 6 GB.
 
 <img width="1494" height="1396" alt="image" src="https://github.com/user-attachments/assets/e595224a-80c6-46a2-b895-2b32b9e1e079" />
 
+Click close on the hardware window after changing the memory settings. Then click finish. <br>
+You will then see a loading bar.
+
 <img width="850" height="832" alt="image" src="https://github.com/user-attachments/assets/b1baa4cf-58ff-4438-b50b-e36ac1f5801e" />
+
+After this the VM will be created and you might get this pop up message about “side channel mitigations enabled”. Just click ok. This setting essentially means that your VM is being restricted from observing certain information that could give it insight to whats happening on your host computer.
 
 <img width="674" height="458" alt="image" src="https://github.com/user-attachments/assets/ebd3a2b6-ed2d-4e79-affd-27c3c7a032c5" />
 
+A Black loading screen will pop up for a little while. It should take no more than 5 minutes to progress to the next screen. <br>
+You may also notice a yellow bare across the bottom of the screen. Ignore it until you are finished installing everything.
+
+
 <img width="2480" height="1440" alt="image" src="https://github.com/user-attachments/assets/e353c6a0-fd09-4f3c-99bc-68b93f1d7f13" />
 
+Now you will see the “Boot Manager” appear. <br>
+
 <img width="2444" height="1324" alt="Screenshot 2026-07-30 154129" src="https://github.com/user-attachments/assets/75942256-6dce-497c-a161-b3364daf0413" />
+
+The window may be very small. At the top of the VM interface in the tool bar, click the “Free stretch” icon to make it larger. 
+
 
 <img width="1084" height="68" alt="image" src="https://github.com/user-attachments/assets/5f810368-5881-44be-bc71-8b943961579b" />
 
 <img width="52" height="58" alt="Screenshot 2026-07-30 154150" src="https://github.com/user-attachments/assets/20903b1c-1d31-4f4c-925e-77ff50c9ffcf" />
 
+Now hit  enter to “Boot normally”.
+
 <img width="1666" height="900" alt="Screenshot 2026-07-30 154222" src="https://github.com/user-attachments/assets/8924299a-65fd-4d54-aa00-3d3ba6a8dee8" />
 
-When the words _________________ appear at the top of the screen hit `enter`. if you wait too long the words ____________ will appear underneath and it will pause for a moment before taking you back to the previous screen.
+When the words “Press any key to boot from CD or DVD” appear at the top of the screen hit enter. If you wait too long the words “Unsuccessful…” may appear underneath and it will pause for a moment before taking you back to the previous screen. 
 
 <img width="2480" height="1346" alt="Screenshot 2026-07-30 154733" src="https://github.com/user-attachments/assets/d75f15b9-c330-4507-a351-194542c5d946" />
+
+The set up for windows will begin to load
 
 <img width="2466" height="1364" alt="Screenshot 2026-07-30 155004" src="https://github.com/user-attachments/assets/a9851c03-d5f9-4d52-9f70-62c2e87d28a9" />
 
