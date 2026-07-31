@@ -708,13 +708,22 @@ If you still see this setting at the bottom of the VM Workstation interface, cli
 #
 
 
+<img width="2476" height="1466" alt="image" src="https://github.com/user-attachments/assets/59869a17-b750-428e-8afc-0f70e18e26dd" />
+
+<img width="1932" height="1208" alt="image" src="https://github.com/user-attachments/assets/edb48367-30cf-49a7-9324-57f92874a2b6" />
+
+<img width="1924" height="1214" alt="image" src="https://github.com/user-attachments/assets/77bb2467-6f2a-4155-924c-7d8da58376a6" />
+
+<img width="1552" height="878" alt="image" src="https://github.com/user-attachments/assets/9b09a734-1ea6-4599-b617-69726c7cf8ee" />
+
+<img width="1554" height="876" alt="image" src="https://github.com/user-attachments/assets/2c4e5aa3-d9ac-42c8-a5bd-eda810b15aef" />
 
 
+<img width="1550" height="878" alt="image" src="https://github.com/user-attachments/assets/0b322f9f-390b-43e6-afcd-855d1f890b91" />
 
+<img width="1546" height="866" alt="image" src="https://github.com/user-attachments/assets/b182bf5a-e61c-4597-be3f-f52cb5ba596c" />
 
-
-
-
+<img width="1546" height="874" alt="image" src="https://github.com/user-attachments/assets/1ea80e95-4b9e-4759-896a-a07f441d76ad" />
 
 
 
