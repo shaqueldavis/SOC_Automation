@@ -242,6 +242,9 @@ When the words _________________ appear at the top of the screen hit `enter`. if
 
 <img width="2480" height="1378" alt="image" src="https://github.com/user-attachments/assets/1883cbb7-b7cb-4357-ba8e-21938e352736" />
 
+<img width="2476" height="1366" alt="Screenshot 2026-07-30 212803" src="https://github.com/user-attachments/assets/88a10923-136f-4db6-b98e-4d3640b8d328" />
+
+
 <img width="2476" height="1364" alt="image" src="https://github.com/user-attachments/assets/95cef6af-a264-412d-bc89-6d7f0b6c7a06" />
 
 
@@ -266,6 +269,7 @@ When the words _________________ appear at the top of the screen hit `enter`. if
 
 <img width="2480" height="1372" alt="image" src="https://github.com/user-attachments/assets/b844ba69-e6ce-484d-aeee-804be99f9200" />
 
+<img width="2480" height="1376" alt="image" src="https://github.com/user-attachments/assets/21252ce0-cf40-45d3-9519-2e9a2f30a06a" />
 
 
 
