@@ -653,8 +653,8 @@ If you still see this setting at the bottom of the VM Workstation interface, cli
 <br>
 
 #
-
-
+#
+#
 
 <img width="2480" height="1374" alt="Screenshot 2026-07-30 221243" src="https://github.com/user-attachments/assets/2764ba1f-6b89-4b36-9cb7-4f65fed73fdf" />
 
@@ -669,6 +669,52 @@ If you still see this setting at the bottom of the VM Workstation interface, cli
 <img width="2088" height="1124" alt="image" src="https://github.com/user-attachments/assets/d86b9fd5-4c64-455d-862b-3edc041cdf96" />
 
 <img width="2088" height="1124" alt="image" src="https://github.com/user-attachments/assets/7063df6f-f73c-4108-9cd8-ccff6e361fb1" />
+
+#
+#
+#
+
+
+<img width="2480" height="1478" alt="Screenshot 2026-07-31 004642" src="https://github.com/user-attachments/assets/a93bed64-3ad8-475e-9430-81a510e0607a" />
+
+
+<img width="1930" height="1208" alt="Screenshot 2026-07-31 004741" src="https://github.com/user-attachments/assets/e7ae581b-a26c-4dd5-97c2-2048b17f6d1a" />
+
+
+
+<img width="1932" height="1208" alt="Screenshot 2026-07-31 004822" src="https://github.com/user-attachments/assets/a804c543-7f15-4fa6-be42-b1329ed264a5" />
+
+
+
+<img width="1944" height="1220" alt="Screenshot 2026-07-31 005324" src="https://github.com/user-attachments/assets/2b6f99b6-b8bd-48f4-96d7-74c190ce10ce" />
+
+
+<img width="1932" height="1214" alt="Screenshot 2026-07-31 005432" src="https://github.com/user-attachments/assets/a6ffc950-4874-420d-a612-f3d5c2b85954" />
+
+
+<img width="1642" height="1306" alt="image" src="https://github.com/user-attachments/assets/14235c61-6b70-4b4d-a98a-b68c336a2727" />
+
+
+<img width="1092" height="960" alt="image" src="https://github.com/user-attachments/assets/5775be7f-c821-4ecf-ae83-f2a09fcddb95" />
+
+<img width="1638" height="1296" alt="image" src="https://github.com/user-attachments/assets/a95b3ff7-ba61-4e0a-9cbc-4d41f5ef163b" />
+
+
+<img width="1636" height="1286" alt="image" src="https://github.com/user-attachments/assets/18c95dc3-5ca8-4985-952e-7b9d4cb2db55" />
+
+#
+#
+#
+#
+
+
+
+
+
+
+
+
+
 
 
 
