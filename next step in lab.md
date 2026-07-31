@@ -206,74 +206,136 @@ The set up for windows will begin to load
 
 <img width="2466" height="1364" alt="Screenshot 2026-07-30 155004" src="https://github.com/user-attachments/assets/a9851c03-d5f9-4d52-9f70-62c2e87d28a9" />
 
+For language I’m going with the default of “English”, then hitting next
+
 <img width="2478" height="1366" alt="image" src="https://github.com/user-attachments/assets/0b0e1e69-e694-4b6d-aed4-85e95e139fe7" />
+
+Again I’ll hit next for the default of “US”. That’s where I bees.
 
 <img width="2472" height="1356" alt="image" src="https://github.com/user-attachments/assets/dc308d1b-ec7a-410c-9d83-ae38ce1ee866" />
 
+At the “select setup option” choose “Install Windows 11” and check the box next to “I agree everything will be deleted including files, apps, and settings”. In our case this is irrelevant because there is nothing currently on the VM. After that click next.
+
 <img width="2472" height="1336" alt="image" src="https://github.com/user-attachments/assets/c370e005-5bca-43b5-a1b1-fce47bb37e1d" />
+
+When prompted to enter a product key click I don’t have a product key at the bottom and then hit next.
 
 <img width="2476" height="1362" alt="image" src="https://github.com/user-attachments/assets/ec70ba4c-5274-4791-8449-e9515d581dd4" />
 
+You will see a loading screen for a few minutes. Wait patiently please.
+
+
 <img width="2468" height="1348" alt="image" src="https://github.com/user-attachments/assets/70a83a09-c8d4-42aa-9f5f-45a3781dee55" />
+
+On the next page at “select image” choose “Windows 11 Pro” and hit next.
+
 
 <img width="2470" height="1330" alt="image" src="https://github.com/user-attachments/assets/ab98f3ad-c317-4e16-be0b-b999cedb9591" />
 
+On the next page at “select image” choose “Windows 11 Pro” and hit next.
+
 <img width="2468" height="1344" alt="image" src="https://github.com/user-attachments/assets/fa75627b-b1a8-43c6-913c-06ee8763e7de" />
+
+Accept the license agreement. 
 
 <img width="2464" height="1336" alt="image" src="https://github.com/user-attachments/assets/ebf0e957-6023-40b6-b307-7a081967bc63" />
 
+Again it will load for a little while.
+
 <img width="2470" height="1338" alt="image" src="https://github.com/user-attachments/assets/33370ea3-8a72-4c7b-88a2-f8b6406d2341" />
+
+You will then see theVM disk we created earlier. Select it and hit next.
 
 <img width="2472" height="1346" alt="image" src="https://github.com/user-attachments/assets/0a54f18d-e71a-4da8-b673-9679c8108490" />
 
+Now click install.
+
 <img width="2468" height="1318" alt="image" src="https://github.com/user-attachments/assets/85551f45-12f3-4d71-b63d-9e34a0809e53" />
+
+This time it will load for quite a while. So feel free to grab a snack or something. 
 
 <img width="2486" height="1340" alt="image" src="https://github.com/user-attachments/assets/6e0ce712-dcf7-4c11-bcc4-1d2745e5c1a2" />
 
 <img width="2474" height="1346" alt="image" src="https://github.com/user-attachments/assets/a1e91516-5665-452f-b983-c62bcc059595" />
 
+At this point Windows has been installed and the rest of the set up is the equivalent to setting up a new computer from the store. <br>
+I’ll choose “United States” and click yes.
+
+
 <img width="2472" height="1368" alt="image" src="https://github.com/user-attachments/assets/2b4c9b89-ad49-48d4-92c8-cdcce04d0ecc" />
+
+Again I’ll choose “US”. 
 
 <img width="2474" height="1368" alt="Screenshot 2026-07-30 161856" src="https://github.com/user-attachments/assets/c328249c-7232-4795-a60d-4e82c45edc5b" />
 
+For “want to add a second keyboard layout?” hit skip.
+
 <img width="2478" height="1372" alt="Screenshot 2026-07-30 161915" src="https://github.com/user-attachments/assets/43702315-2939-4ce7-ba59-9ef0096160ed" />
+
+You will see another loading screen.
 
 <img width="2474" height="1362" alt="image" src="https://github.com/user-attachments/assets/f9d6a16a-129c-4f5c-ab43-1a358d6f63d3" />
 
+Name your device. I’ll be naming mine “Windows 11 SOC”.
+
 <img width="2476" height="1370" alt="image" src="https://github.com/user-attachments/assets/efb7984f-3033-4094-8916-ff3ae695ea2d" />
+
+Loading…
+
 
 <img width="2470" height="1328" alt="image" src="https://github.com/user-attachments/assets/5acb7308-022c-4ce3-8357-532232f41bf5" />
 
+Choose set up for personal use and hit next.
+
 <img width="2472" height="1362" alt="image" src="https://github.com/user-attachments/assets/c065fccf-bb1a-4005-a492-26d75389b5db" />
+
+Click sign in.
 
 <img width="2474" height="1368" alt="image" src="https://github.com/user-attachments/assets/c159ef41-4625-4388-9cfb-7ac548cb1e78" />
 
+Sign into your microsoft account. If you don’t have one you can click “create one”. <br>
+Hit next once it is set up.
+
 <img width="2472" height="1364" alt="image" src="https://github.com/user-attachments/assets/a3dddf9a-1d9c-4c9e-a16a-87fb8b0b110a" />
+
+Click send to send a code to the email you used to create your microsoft account.
 
 <img width="2474" height="1366" alt="image" src="https://github.com/user-attachments/assets/0d2f4572-5ecc-4f0d-b43d-b72d6f8e9194" />
 
+You will need to go to a different desktop window to open a browser on your host computer and navigate to the code in your email. Once you have done so, enter it into the text box and click “sign in”.
+
 <img width="2480" height="1364" alt="image" src="https://github.com/user-attachments/assets/778bfdb4-bc1b-443d-85d3-b4bbbf59552b" />
+
+Click “create PIN”
 
 <img width="2472" height="1366" alt="image" src="https://github.com/user-attachments/assets/5eb29fb5-d7f0-4e7c-b717-6da33c9a749b" />
 
+
+To make this like a normal password click the check box for “include letters and symbols. Choose a password **that you will remember** then click ok.
+
+
 <img width="2474" height="1366" alt="image" src="https://github.com/user-attachments/assets/fa46c947-8510-4c71-bade-7e621aaa8352" />
+
+When prompted to choose privacy settings I personally chose to turn off “find my device”. Because this is a virtual device it is irrelevant. I also turned off the option to provide me with personalized advertisements. The rest I left on. However none of these really matte in our case. So make your desired choices and hit next
+
+<img width="2476" height="1364" alt="Screenshot 2026-07-30 192049" src="https://github.com/user-attachments/assets/ba5ac493-9369-40a1-9052-89713d2ada68" />
+
+You may or may not see this next window depending on if you have already had a microsoft account on a Windows machine for some time. I personally have. Because of that Microsoft is prompting me to restore my settings from my host computer. <br>
+I don’t want to do that so I will scroll down and click more options instead.
 
 <img width="2480" height="1378" alt="image" src="https://github.com/user-attachments/assets/1883cbb7-b7cb-4357-ba8e-21938e352736" />
 
+The option to “set up as a new PC” is now available. I will click that.
+
 <img width="2476" height="1366" alt="Screenshot 2026-07-30 212803" src="https://github.com/user-attachments/assets/88a10923-136f-4db6-b98e-4d3640b8d328" />
 
+Microsoft is persistent, believing it knows what is best for me, but it doesn’t. So again I will click “set up as a new PC”.
 
 <img width="2476" height="1364" alt="image" src="https://github.com/user-attachments/assets/95cef6af-a264-412d-bc89-6d7f0b6c7a06" />
 
-
-#
-#
-#
-
+After this you will be prompted with a long list of optional settings that are completely irrelevant to this lab. Click skip and or decline. 
 
 <img width="2466" height="1372" alt="image" src="https://github.com/user-attachments/assets/12c6069b-fcde-430a-be19-22d7e1ebf60d" />
-
-<img width="2474" height="1366" alt="image" src="https://github.com/user-attachments/assets/e995b1ee-bf98-4711-aec4-698f5ff1e861" />
 
 <img width="2476" height="1368" alt="image" src="https://github.com/user-attachments/assets/4e71d99f-c2d1-4bc4-ad30-cec8e8f6e57b" />
 
@@ -284,6 +346,8 @@ The set up for windows will begin to load
 <img width="2474" height="1364" alt="image" src="https://github.com/user-attachments/assets/0b69c3d2-6547-4b2f-96ae-5e1fbbf139d1" />
 
 <img width="2476" height="1366" alt="image" src="https://github.com/user-attachments/assets/d29c3e8d-d5f4-40d5-942c-1a0172ca5fb1" />
+
+Once it is finished you will see a screen similar to those below. 
 
 <img width="2480" height="1372" alt="image" src="https://github.com/user-attachments/assets/b844ba69-e6ce-484d-aeee-804be99f9200" />
 
