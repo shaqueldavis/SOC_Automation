@@ -46,6 +46,42 @@ Click on "RAW" in the upper right hand corner.
 <img width="540" height="116" alt="image" src="https://github.com/user-attachments/assets/29aab554-2710-482d-a679-efa4356a57b4" />
 
 
+Right click anywhere in the window and choose save as.
+
+<img width="2482" height="1482" alt="image" src="https://github.com/user-attachments/assets/f6b1e7f2-c3b1-4c5a-ae1e-e8ccd087df4f" />
+
+Save it inside the Sysmon directory.
+
+<img width="1480" height="914" alt="image" src="https://github.com/user-attachments/assets/754e426d-be3e-4569-8bf9-1fa94223ac03" />
+
+Open the start menue then type in "Powershell". Right click on Powershell and open it as an administrator.
+
+<img width="2482" height="1480" alt="image" src="https://github.com/user-attachments/assets/b214de62-23c5-4e1f-9581-5cdf2664c19e" />
+
+
+Click "Yes" when prompted by UAC.
+
+<img width="1112" height="724" alt="image" src="https://github.com/user-attachments/assets/879b271c-b5f2-4d55-9978-f583b2acd8b3" />
+
+Go back to the windows file explorer and click on the search bar. Copy the path. 
+
+<img width="1896" height="1136" alt="Screenshot 2026-08-03 131446" src="https://github.com/user-attachments/assets/795e61ac-edaf-4a11-ab9b-b49eb5db38c8" />
+
+Return to Powershell type:
+```
+cd
+```
+which is short for "change directory". Then paste in the path to our Sysmon folder.
+
+I also typed `ls`, is an alias for Powershell's native command `GetChiledItem` to reveal the contents of the folder and confirm I'm in the right place.
+
+<img width="2366" height="986" alt="Screenshot 2026-08-03 132346" src="https://github.com/user-attachments/assets/496a9ef0-39e3-49d7-a837-3fe4d0ebd3b7" />
+
+
+
+
+
+
 
 
 
