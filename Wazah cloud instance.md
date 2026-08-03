@@ -117,3 +117,28 @@ Click the check box for "I understand the risk" and click "disable automatic bac
 <br>
 <br>
 
+Click on "Deploy" in the lower right-hand corner. 
+
+<br>
+
+<img width="2824" height="1534" alt="image" src="https://github.com/user-attachments/assets/89f51816-ff92-4211-8295-abe1bc885c84" />
+
+<br>
+<br>
+<br>
+<br>
+
+Now you should see your created server.
+
+<br>
+
+<img width="2848" height="1532" alt="image" src="https://github.com/user-attachments/assets/371c1169-5cf2-4a86-a838-7ee2b6351cf6" />
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
