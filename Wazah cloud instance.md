@@ -53,4 +53,35 @@ On the next page click "Deploy server"
 <br>
 <br>
 
+Choose "Shared CPU" and select the location closest to you. For me the closest location is New York.
+
+<br>
+
+<img width="2846" height="1528" alt="image" src="https://github.com/user-attachments/assets/bc6ece8f-5f60-4132-b575-205ab3921f72" />
+
+<br>
+<br>
+<br>
+<br>
+
+Scroll down and choose the option with "4 vCPUs" with "8 GB" and click "configure".
+
+<img width="2828" height="1532" alt="image" src="https://github.com/user-attachments/assets/05d6cfba-aebf-4bb2-9f9e-c6d9f27ac065" />
+
+<br>
+<br>
+<br>
+<br>
+
+For the operating system choose "Ubuntu".
+
+<br>
+
+<img width="2826" height="1532" alt="image" src="https://github.com/user-attachments/assets/2b8d1ca5-b1ac-4a7f-9afe-21af9362fb13" />
+
+<br>
+<br>
+<br>
+<br>
+
 
