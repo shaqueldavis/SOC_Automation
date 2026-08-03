@@ -73,15 +73,47 @@ Scroll down and choose the option with "4 vCPUs" with "8 GB" and click "configur
 <br>
 <br>
 
-For the operating system choose "Ubuntu".
+For the operating system choose "Ubuntu". Under image version switch it to "Ubuntu 24.04 LTS x64". This is a slightly older version. We chose this because the latest version may cause some compatibility issues. 
 
 <br>
 
-<img width="2826" height="1532" alt="image" src="https://github.com/user-attachments/assets/2b8d1ca5-b1ac-4a7f-9afe-21af9362fb13" />
+<img width="2862" height="1520" alt="image" src="https://github.com/user-attachments/assets/60887b63-c2f3-4dde-817e-3d4c1084c340" />
 
 <br>
 <br>
 <br>
 <br>
 
+Scroll down and name the Server.
+
+<br>
+
+<img width="1658" height="332" alt="image" src="https://github.com/user-attachments/assets/dc8d1602-f81b-4013-91ca-d5b8036192ae" />
+
+<br>
+<br>
+<br>
+<br>
+
+Scroll down further and turn off "automatic backups".
+
+<br>
+
+<img width="1558" height="176" alt="image" src="https://github.com/user-attachments/assets/91011836-1535-4fa0-bdaa-48bf2c1abc45" />
+
+<br>
+<br>
+<br>
+<br>
+
+Click the check box for "I understand the risk" and click "disable automatic backups".
+
+<br>
+
+<img width="1148" height="832" alt="image" src="https://github.com/user-attachments/assets/bb91ab5b-7736-445e-9e97-4d5087468b90" />
+
+<br>
+<br>
+<br>
+<br>
 
