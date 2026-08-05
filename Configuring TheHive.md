@@ -1,0 +1,174 @@
+# Configuring TheHive.md
+
+### Configuring Cassandra
+
+If you have not already, open PowerShell by going to the start menu searching for PowerShell, right clicking on it, and selecting run as administrator. 
+
+ssh into your cloud instance for TheHive. Remember your IP address for this cloud instance can be find by logging into your Vultr account going to compute > instances.
+
+connect with ssh to the instance.
+```
+ssh root@xxx.xxx.xxx.xxx
+```
+**Remember to replace the "xxx.xxx.xxx.xxx" portion with your IP address
+
+Once your in, Open the file:
+```
+nano /etc/cassandra/cassandra.yaml
+```
+
+Once it is open change the "cluster_name" to your name of choice. It will likely say "Test Cluster" initially.
+
+<br>
+
+<img width="2328" height="932" alt="image" src="https://github.com/user-attachments/assets/1f1f5743-d16f-4267-9b28-b33aae5eacc9" />
+
+<br>
+<br>
+<br>
+<br>
+
+Hit `ctrl` + `w` to search. Type "listen_address" and hit enter. Change it from "localhost" to the IP address for your Hive cloud instance. This is the same IP address you used to connect via ssh.
+
+<br>
+
+<img width="2324" height="930" alt="image" src="https://github.com/user-attachments/assets/958eba6c-6417-4e31-890d-ebef25e44d88" />
+
+<br>
+<br>
+<br>
+<br>
+
+Hit `ctrl` + `w` to search. Type "rpc_address" and hit enter. You may have to scroll down a little bit before you see it, and by scroll I do mean hit the down arrow key. Change it from "localhost" to the IP address for your Hive cloud instance. 
+
+<br>
+
+<img width="2328" height="928" alt="image" src="https://github.com/user-attachments/assets/3841e7d6-e8e1-4549-9b82-6f6dbd8ab6f9" />
+
+<br>
+<br>
+<br>
+<br>
+
+Hit `ctrl` + `w` to search. Type "seed_provider" and hit enter. Change the address beside "seeds" to the IP address for your Hive cloud instance. **Do not change the port**, that's the "7000".
+
+<br>
+
+<img width="2328" height="924" alt="image" src="https://github.com/user-attachments/assets/b257a5c0-551e-49bd-9ed4-be4305edb679" />
+
+<br>
+<br>
+<br>
+<br>
+
+Now save the file by hitting `ctrl` + `x`. Type `y` for yes to confirm and hit enter. Then hit enter again to save it under the same name.
+
+
+Once exited out of the file and you return to the terminal prompt, stop the service.
+```
+systemctl stop cassandra.service
+```
+
+<br>
+
+<img width="1280" height="60" alt="image" src="https://github.com/user-attachments/assets/49bdeeec-e0be-4824-9c92-5750aecc78aa" />
+
+<br>
+<br>
+<br>
+<br>
+
+Remove any of the remaining files.
+```
+rm -rf /var/lib/cassandra/*
+```
+
+<br>
+
+<img width="1104" height="62" alt="image" src="https://github.com/user-attachments/assets/2754c5ad-d039-4937-854c-6cac1caa4572" />
+
+<br>
+<br>
+<br>
+<br>
+
+Start the service.
+```
+systemctl start cassandra.service
+```
+
+<br>
+
+<img width="1230" height="62" alt="image" src="https://github.com/user-attachments/assets/f0c751f6-ff1f-4eb8-a02a-3e25e9d5131e" />
+
+<br>
+<br>
+<br>
+<br>
+
+Check the status to confirm it is running.
+```
+systemctl status cassandra.service
+```
+
+<br>
+
+<img width="2330" height="428" alt="image" src="https://github.com/user-attachments/assets/0629516c-2837-4566-9390-e4fc85003595" />
+
+You may have to hit `q` to exit.
+
+<br>
+<br>
+<br>
+<br>
+
+### Configure ElasticSearch
+
+Open the file.
+```
+nano /etc/elasticsearch/elasticsearch.yml
+```
+
+<br>
+
+<img width="2324" height="928" alt="image" src="https://github.com/user-attachments/assets/0f146707-5828-4911-8bd2-cb4d06021f98" />
+
+<br>
+<br>
+<br>
+<br>
+
+Scroll down until you get to "cluster.name". remove the "#" in front of it to un-comment it. Replace "my-application" with your name of choice.
+
+<br>
+
+<img width="2326" height="924" alt="image" src="https://github.com/user-attachments/assets/189a7f89-1b66-4692-96d8-00dcd89a9903" />
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
