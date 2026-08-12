@@ -10,7 +10,8 @@ The completed workflow demonstrates how SIEM, SOAR, threat-intelligence, and cas
 
 ### Project Inspiration and Attribution
 
-This project was inspired by and initially guided by the [MyDFIR SOC Automation Project](https://www.youtube.com/watch?v=XR3eamn8ydQ). I used the tutorial as a foundation while building the environment independently, documenting each phase in my own words, adapting the implementation to current software versions, and troubleshooting configuration, networking, service, and integration issues encountered throughout the deployment.
+This project was inspired by and initially guided by the [MyDFIR SOC Automation Project](https://www.youtube.com/watch?v=XR3eamn8ydQ). I used the tutorial as a foundation while building the environment independently, documenting each phase in my own words, adapting the implementation to current software versions, and troubleshooting configuration, networking, service, and integration issues encountered throughout the deployment. <br>
+The tutorial provided the foundational architecture and workflow, while this repository documents my implementation, configuration decisions, troubleshooting process, and validation results.
 
 ### Requirements
 
