@@ -1,3 +1,6 @@
+> [!NOTE]
+> The public IP addresses shown in this documentation belonged to temporary cloud instances created exclusively for this lab. Both instances were permanently destroyed after the project was completed, and the addresses are no longer associated with infrastructure under my control. Any credentials, API keys, webhook URLs, and other authentication data have been removed or invalidated.
+
 #  SOC Automation Home Lab
 
 ## Objective
@@ -92,10 +95,10 @@ My version of this lab will require you to already have VM Workstation pro downl
 
 ### Phase [16. Create a Mimikatz Detection Rule](Project%20Phases/16.%20Make%20Mimikatz%20Rule.md)
 
-### Phase [17. Wazuh to Shuffle](Project%20Phases/17.%20Wazuh%20to%20Shuffler.md)
+### Phase [17. Wazuh to Shuffle](Project%20Phases/17.%20Wazuh%20to%20Shuffle.md)
 
 ### Phase [18. VirusTotal Authentication and Enrichment](Project%20Phases/18.%20VirusTotal%20Auth%20and%20Enrichment.md)
 
-### Phase [19. Shuffle and TheHive Integration](Project%20Phases/19.%20Shuffler%20and%20TheHive.md)
+### Phase [19. Shuffle and TheHive Integration](Project%20Phases/19.%20Shuffle%20and%20TheHive.md)
 
 ### Phase [20. Email the SOC Analyst](Project%20Phases/20.%20Email%20SOC%20Analyst.md)
