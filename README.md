@@ -32,21 +32,42 @@ This Project covers:
 
 ## $\color{blue}{\text{Steps}}$
 
-### Phase 1: <a href="Endpoint Database.md">Draw Diagram</a>
+### Phase <a href="01. Draw Diagram.md">01. Draw Diagram</a>
 
-### Phase 2: <a href="Allow List (Network Baseline).md">NEXT-STEP-HERE</a>
+### Phase <a href="02. Download Windows ISO.md">02. Download Windows ISO</a>
 
-### Phase 4:
+### Phase <a href="03. Un-sync Microsoft Edge.md">03. Un-sync Microsoft Edge</a>
 
-### Phase 5:
+### Phase <a href="04. VM Set Up.md">04. VM Set Up</a>
 
-### Phase 6:
+### Phase <a href="05. Windows Set Up.md">05. Windows Set Up</a>
 
-### Phase 7:
+### Phase <a href="06. Un-Sync VM.md">06. Un-Sync VM</a>
 
-### Phase 8:
+### Phase <a href="07. Sysomon.md">07. Sysomon</a>
 
-### Phase 9:
+### Phase <a href="08. Wazuh Cloud Instance.md">08. Wazuh Cloud Instance</a>
 
-### Phase 10:
+### Phase <a href="09. TheHive Cloud Instance.md">09. TheHive Cloud Instance</a>
 
+### Phase <a href="10. Installing Wazuh.md">10. Installing Wazuh</a>
+
+### Phase <a href="11. Installing TheHive.md">11. Installing TheHive</a>
+
+### Phase <a href="12. Configuring TheHive.md">12. Configuring TheHive</a>
+
+### Phase <a href="13. Configuring Wazuh.md">13. Configuring Wazuh</a>
+
+### Phase <a href="14. Mimikatz Telemetry Prep.md">14. Mimikatz Telemetry Prep</a>
+
+### Phase <a href="15. Mimikatz Telemetry.md">15. Mimikatz Telemetry</a>
+
+### Phase <a href="16. Make Mimikatz Rule.md">16. Make Mimikatz Rule</a>
+
+### Phase <a href="17. Shuffler 01.md">17. Shuffler 01</a>
+
+### Phase <a href="18. Shuffler 02.md">18. Shuffler 02</a>
+
+### Phase <a href="19. Shuffler 03.md">19. Shuffler 03</a>
+
+### Phase <a href="20. Shuffler Email.md">20. Shuffler Email</a>
