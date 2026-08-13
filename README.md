@@ -22,7 +22,7 @@ My version of this lab will require you to already have VM Workstation pro downl
 * **SOC Architecture and Documentation** - Designed and documented an end-to-end SOC architecture showing the flow of endpoint telemetry, security alerts, threat-intelligence enrichment, case creation, and analyst notification.
 * **Cloud Instance Deployment** - Provisioned and configured Linux-based Vultr cloud instances to host Wazuh and TheHive components within a distributed SOC environment.
 * **Cloud Systems Administration** - Remotely administered cloud-hosted Linux servers using SSH, package management, systemd services, configuration files, and diagnostic logs.
-* * **SIEM/XDR Deployment** - Installed and configured Wazuh as a SIEM/XDR platform and enrolled a Windows 11 endpoint as a monitored agent.
+* **SIEM/XDR Deployment** - Installed and configured Wazuh as a SIEM/XDR platform and enrolled a Windows 11 endpoint as a monitored agent.
 * **Endpoint Telemetry Collection** - Installed and configured Sysmon to generate detailed Windows process-creation and endpoint telemetry.
 * **Security Log Ingestion** - Configured Wazuh to ingest and archive Sysmon events from the Windows endpoint.
 * **Custom Detection Engineering** - Created a custom Wazuh detection rule using XML and PCRE2 to identify Mimikatz execution through Sysmon Event ID 1 process-creation data.
