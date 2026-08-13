@@ -26,9 +26,19 @@ The completed workflow successfully:
 This project was inspired by and initially guided by the [MyDFIR SOC Automation Project](https://www.youtube.com/watch?v=XR3eamn8ydQ). I used the tutorial as a foundation while building the environment independently, documenting each phase in my own words, adapting the implementation to current software versions, and troubleshooting configuration, networking, service, and integration issues encountered throughout the deployment. <br>
 The tutorial provided the foundational architecture and workflow, while this repository documents my implementation, configuration decisions, troubleshooting process, and validation results.
 
-### Requirements
+### Before You Begin
 
-My version of this lab will require you to already have VM Workstation pro downloaded on your computer. My goal is to create another repository in the future that walks through the steps to do so. However, In the meantime check out YouTube University and even ChatGPT for guided info.
+This lab begins with VMware Workstation Pro already installed on the host computer. All other major components—including the Windows 11 virtual machine, Vultr cloud instances, Wazuh and TheHive deployments, and the required Shuffle and VirusTotal integrations—are created and configured throughout the project.
+
+To follow this lab, you will need:
+
+- VMware Workstation Pro installed on your computer.
+- A computer capable of running a Windows 11 virtual machine.
+- Internet access.
+- The ability to create the cloud and service accounts introduced during the project.
+
+> [!CAUTION]
+> This project uses Mimikatz in a controlled Windows virtual machine for security testing. Do not execute it on a production system or a computer containing sensitive information.
 
 ### Skills Learned
 
