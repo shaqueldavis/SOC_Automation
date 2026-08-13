@@ -19,22 +19,24 @@ My version of this lab will require you to already have VM Workstation pro downl
 
 ### Skills Learned
 
-- Designed and documented an end-to-end SOC architecture showing the flow of endpoint telemetry, security alerts, threat-intelligence enrichment, case creation, and analyst notification.
-- Deployed and administered cloud-hosted security infrastructure using Linux-based Vultr instances.
-- Installed and configured Wazuh as a SIEM/XDR platform and enrolled a Windows 11 endpoint as a monitored agent.
-- Installed and configured Sysmon to generate detailed Windows process-creation and endpoint telemetry.
-- Configured Wazuh to ingest and archive Sysmon events from the Windows endpoint.
-- Created a custom Wazuh detection rule using XML and PCRE2 to identify Mimikatz execution through Sysmon Event ID 1 process-creation data.
-- Mapped the Mimikatz credential-dumping behavior to MITRE ATT&CK technique T1003.
-- Built a SOAR workflow in Shuffle that receives Wazuh alerts through a webhook and processes JSON alert data.
-- Used a regular expression to extract SHA-256 file hashes from Wazuh telemetry.
-- Integrated the VirusTotal API to automatically enrich file hashes with threat-intelligence results.
-- Integrated Shuffle with TheHive API to automatically create security alerts for analyst investigation.
-- Configured automated email notifications to alert a SOC analyst when suspicious activity is detected.
-- Installed and configured TheHive and its supporting Cassandra and Elasticsearch services.
-- Configured certificate trust, authentication, service accounts, API keys, and application permissions for integrations.
-- Applied Linux administration skills using SSH, package management, service management, configuration files, permissions, hostnames, and UFW firewall rules.
-- Tested and troubleshot the complete workflow by generating controlled Mimikatz telemetry and validating each stage of the detection pipeline.
+* **SOC Architecture and Documentation** - Designed and documented an end-to-end SOC architecture showing the flow of endpoint telemetry, security alerts, threat-intelligence enrichment, case creation, and analyst notification.
+* **Cloud Instance Deployment** - Provisioned and configured Linux-based Vultr cloud instances to host Wazuh and TheHive components within a distributed SOC environment.
+* **Cloud Systems Administration** - Remotely administered cloud-hosted Linux servers using SSH, package management, systemd services, configuration files, and diagnostic logs.* **SIEM/XDR Deployment** - Installed and configured Wazuh as a SIEM/XDR platform and enrolled a Windows 11 endpoint as a monitored agent.
+* **Endpoint Telemetry Collection** - Installed and configured Sysmon to generate detailed Windows process-creation and endpoint telemetry.
+* **Security Log Ingestion** - Configured Wazuh to ingest and archive Sysmon events from the Windows endpoint.
+* **Custom Detection Engineering** - Created a custom Wazuh detection rule using XML and PCRE2 to identify Mimikatz execution through Sysmon Event ID 1 process-creation data.
+* **MITRE ATT&CK Mapping** - Mapped the Mimikatz credential-dumping behavior to MITRE ATT&CK technique T1003.
+* **SOAR Workflow Development** - Built a SOAR workflow in Shuffle that receives Wazuh alerts through a webhook and processes JSON alert data.
+* **Indicator Extraction** - Used a regular expression to extract SHA-256 file hashes from Wazuh telemetry.
+* **Threat-Intelligence Enrichment** - Integrated the VirusTotal API to automatically enrich file hashes with threat-intelligence results.
+* **Automated Alert Creation** - Integrated Shuffle with TheHive API to automatically create security alerts for analyst investigation.
+* **Analyst Notification Automation** - Configured automated email notifications to alert a SOC analyst when suspicious activity is detected.
+* **Incident-Response Platform Deployment** - Installed and configured TheHive and its supporting Cassandra and Elasticsearch services.
+* **Secure API Integration** - Configured certificate trust, authentication, service accounts, API keys, and application permissions for integrations.
+* **Linux Systems Administration** - Applied Linux administration skills using SSH, package management, service management, configuration files, permissions, hostnames, and UFW firewall rules.
+* **End-to-End Detection Validation** - Tested and troubleshot the complete workflow by generating controlled Mimikatz telemetry and validating each stage of the detection pipeline.
+* **Cloud Application Deployment** - Deployed and configured Wazuh, TheHive, Cassandra, and Elasticsearch services across Linux-based cloud infrastructure.
+
 
 ### Tools and Technologies Used
 
