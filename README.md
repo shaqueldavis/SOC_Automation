@@ -126,7 +126,7 @@ To follow this lab, you will need:
 
 ### Phase [20. Email the SOC Analyst](Project%20Phases/20.%20Email%20SOC%20Analyst.md)
 
-### Phase [21. Automated Incident Response](Project%20Phases/21.%20Auto%20Response.md)
+### Phase [21. Automated Incident Response](Project%20Phases/21.%20Automated%20Incident%20Response.md)
 
 #
 
