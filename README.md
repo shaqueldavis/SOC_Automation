@@ -56,7 +56,7 @@ My version of this lab will require you to already have VM Workstation pro downl
 
 | Tool / Technology | Purpose in the Project |
 |---|---|
-| **Wazuh** | Collected endpoint telemetry, searched security events, and generated alerts using a custom detection rule. |
+| **Wazuh** | Collected endpoint telemetry, generated alerts using a custom detection rule, and executed an Active Response script to terminate the detected Mimikatz process. |
 | **Sysmon** | Generated detailed Windows process-creation and endpoint telemetry. |
 | **Shuffle** | Orchestrated the SOAR workflow, received Wazuh alerts, extracted file hashes, and routed enriched alerts. |
 | **VirusTotal API** | Enriched SHA-256 file hashes with external threat-intelligence data. |
