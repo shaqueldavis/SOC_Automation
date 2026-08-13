@@ -131,5 +131,4 @@ To follow this lab, you will need:
 #
 
 > [!NOTE]
-> The public IP addresses shown in this documentation belonged to temporary cloud instances created exclusively for this lab. Both instances were permanently destroyed after the project was completed, and the addresses are no longer associated with infrastructure under my control. Any credentials, API keys, webhook URLs, and other authentication data have been removed or invalidated.
-
+> The public IP addresses shown in this documentation belonged to temporary cloud instances created exclusively for this lab. Both instances were permanently destroyed after the project was completed, and the addresses are no longer associated with infrastructure under my control. 
