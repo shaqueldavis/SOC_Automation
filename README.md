@@ -102,6 +102,8 @@ My version of this lab will require you to already have VM Workstation pro downl
 
 ### Phase [20. Email the SOC Analyst](Project%20Phases/20.%20Email%20SOC%20Analyst.md)
 
+### Phase [21. Automated Incident Response](Project%20Phases/21.%20Auto%20Response.md)
+
 #
 
 > [!NOTE]
