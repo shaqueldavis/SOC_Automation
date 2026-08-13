@@ -1,6 +1,3 @@
-> [!NOTE]
-> The public IP addresses shown in this documentation belonged to temporary cloud instances created exclusively for this lab. Both instances were permanently destroyed after the project was completed, and the addresses are no longer associated with infrastructure under my control. Any credentials, API keys, webhook URLs, and other authentication data have been removed or invalidated.
-
 #  SOC Automation Home Lab
 
 ## Objective
@@ -102,3 +99,9 @@ My version of this lab will require you to already have VM Workstation pro downl
 ### Phase [19. Shuffle and TheHive Integration](Project%20Phases/19.%20Shuffle%20and%20TheHive.md)
 
 ### Phase [20. Email the SOC Analyst](Project%20Phases/20.%20Email%20SOC%20Analyst.md)
+
+#
+
+> [!NOTE]
+> The public IP addresses shown in this documentation belonged to temporary cloud instances created exclusively for this lab. Both instances were permanently destroyed after the project was completed, and the addresses are no longer associated with infrastructure under my control. Any credentials, API keys, webhook URLs, and other authentication data have been removed or invalidated.
+
