@@ -36,7 +36,7 @@ My version of this lab will require you to already have VM Workstation pro downl
 * **Linux Systems Administration** - Applied Linux administration skills using SSH, package management, service management, configuration files, permissions, hostnames, and UFW firewall rules.
 * **End-to-End Detection Validation** - Tested and troubleshot the complete workflow by generating controlled Mimikatz telemetry and validating each stage of the detection pipeline.
 * **Cloud Application Deployment** - Deployed and configured Wazuh, TheHive, Cassandra, and Elasticsearch services across Linux-based cloud infrastructure.
-
+* **Automated Incident Containment** - Configured Wazuh Active Response to execute a custom endpoint containment script when the Mimikatz detection rule fired, automatically terminating the detected process and logging the response result.
 
 ### Tools and Technologies Used
 
